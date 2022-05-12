@@ -1,0 +1,42 @@
+2022-05-12 14:52:10,394 INFO o.a.j.u.JMeterUtils: Setting Locale to en_US
+2022-05-12 14:52:10,402 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2022-05-12 14:52:10,408 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: Copyright (c) 1998-2021 The Apache Software Foundation
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: Version 5.4.3
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: java.version=1.8.0_321
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: os.name=Windows 10
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: os.arch=amd64
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: os.version=10.0
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: file.encoding=Cp1252
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: java.awt.headless=null
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: Max memory     =3678404608
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: Available Processors =8
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: Default Locale=English (United States)
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: JMeter  Locale=English (United States)
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.4.3
+2022-05-12 14:52:10,413 INFO o.a.j.JMeter: user.dir  =C:\apache-jmeter-5.4.3\bin
+2022-05-12 14:52:10,421 INFO o.a.j.JMeter: PWD       =C:\apache-jmeter-5.4.3\bin
+2022-05-12 14:52:10,422 INFO o.a.j.JMeter: IP: 10.99.100.200 Name: LP002852 FullName: LP002852.cignitiglobal.com
+2022-05-12 14:52:10,502 INFO o.a.j.JMeter: Setting LAF to: laf:com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+2022-05-12 14:52:10,595 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2022-05-12 14:52:12,194 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-3fb4a3da61eff18d190ecb45cc7cd3e4-gui
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2022-05-12 14:52:13,952 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2022-05-12 14:52:15,209 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-functions=2.1, jpgc-casutg=2.10, jpgc-dummy=0.4, extended-csv-dataset-config=1.1, jpgc-ffw=2.0, jpgc-fifo=0.2, bzm-parallel=0.11, jpgc-prmctl=0.4, jpgc-perfmon=2.1, jpgc-plugins-manager=1.7, bzm-random-csv=0.8, jpgc-tst=2.5, validate-thread-group=1.0.1, jpgc-csvars=0.1, jmeter-core=5.4.3, jmeter-ftp=5.4.3, jmeter-http=5.4.3, jmeter-jdbc=5.4.3, jmeter-jms=5.4.3, jmeter-junit=5.4.3, jmeter-java=5.4.3, jmeter-ldap=5.4.3, jmeter-mail=5.4.3, jmeter-mongodb=5.4.3, jmeter-native=5.4.3, jmeter-tcp=5.4.3, jmeter-components=5.4.3, jpgc-standard=2.0]
+2022-05-12 14:52:33,046 INFO o.a.j.s.FileServer: Default base='C:\apache-jmeter-5.4.3\bin'
+2022-05-12 14:52:33,046 INFO o.a.j.g.a.Load: Loading file: C:\PT_SampleGIT\TestScript_JMeter.jmx
+2022-05-12 14:52:33,046 INFO o.a.j.s.FileServer: Set new base='C:\PT_SampleGIT'
+2022-05-12 14:52:33,154 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2022-05-12 14:52:33,162 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2022-05-12 14:52:33,162 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2022-05-12 14:52:33,162 INFO o.a.j.s.SaveService: Loading file: C:\PT_SampleGIT\TestScript_JMeter.jmx
+2022-05-12 14:52:33,328 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2022-05-12 14:52:33,328 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2022-05-12 14:52:33,328 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2022-05-12 14:52:33,328 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2022-05-12 14:52:33,554 INFO o.a.j.s.FileServer: Set new base='C:\PT_SampleGIT'

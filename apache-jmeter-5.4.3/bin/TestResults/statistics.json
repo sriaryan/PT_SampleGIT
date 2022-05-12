@@ -1,0 +1,34 @@
+{
+  "jp@gc - Dummy Sampler" : {
+    "transaction" : "jp@gc - Dummy Sampler",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 475.0,
+    "medianResTime" : 475.0,
+    "minResTime" : 475.0,
+    "maxResTime" : 475.0,
+    "pct1ResTime" : 475.0,
+    "pct2ResTime" : 475.0,
+    "pct3ResTime" : 475.0,
+    "throughput" : 2.1052631578947367,
+    "receivedKBytesPerSec" : 0.02261513157894737,
+    "sentKBytesPerSec" : 0.0
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 1,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 475.0,
+    "medianResTime" : 475.0,
+    "minResTime" : 475.0,
+    "maxResTime" : 475.0,
+    "pct1ResTime" : 475.0,
+    "pct2ResTime" : 475.0,
+    "pct3ResTime" : 475.0,
+    "throughput" : 2.1052631578947367,
+    "receivedKBytesPerSec" : 0.02261513157894737,
+    "sentKBytesPerSec" : 0.0
+  }
+}
